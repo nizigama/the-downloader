@@ -1,5 +1,6 @@
 # TODO
 
+- [ ] Add a makefile
 - [ ] Create a getFileInfo function
 - [ ] The function will accept an http client and a link
 - [ ] The function will get the file total download size, guess the file name, check if the file accepts the download in chunks using the accept-ranges header, and finally get the mime type then use the mime stand package to get an extension out of it if possible
